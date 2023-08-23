@@ -1,0 +1,6 @@
+This is Manual Webhook Integration
+This is a webhook integration with Jenkins 
+In git hub select a repo and go to settings
+select webhook and add url http://jenkins-ip-address/github-webhook/
+It will integrate with git hub after build 
+After any changes happened to the git repo and want that files in jenkins you have to build it again 
